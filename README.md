@@ -1,20 +1,20 @@
-# Translations for YAKA
+# Translations for Kotatsu
 
 ### Please give the repo a :star:
 
 ### Contribute
 
-**👋 You can also add / edit translations for YAKA at here.**
+**👋 You can also add / edit translations for Kotatsu at here.**
 
 -----------------
 
 ### Parsers (Source code)
 
-https://github.com/YakaTeam/yak-parsers
+https://github.com/YakaTeam/kotatsu-parsers
 
 ### Report parsers issues
 
-https://github.com/YakaTeam/yak-parsers/issues/new/
+https://github.com/YakaTeam/kotatsu-parsers/issues/new/
 
 ****
 

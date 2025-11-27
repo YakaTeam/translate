@@ -1,4 +1,4 @@
-# Translations for Kotatsu
+# Translations from K
 
 ### Please give the repo a :star:
 

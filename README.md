@@ -4,7 +4,7 @@
 
 ### Contribute
 
-**👋 You can also add / edit translations for Kotatsu at here.**
+**👋 You can also add / edit these translations at here.**
 
 -----------------
 

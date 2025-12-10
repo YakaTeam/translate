@@ -862,6 +862,9 @@
     <string name="adblock">Block ads in browser</string>
     <string name="adblock_summary">Block advertisement in the built-in browser (beta)</string>
     <string name="collapse_long_description">Collapse long description</string>
+    <string name="details_ui">Details screen style</string>
+    <string name="details_ui_modern">Modern (New)</string>
+    <string name="details_ui_classic">Classic (Old)</string>
     <string name="creating_backup">Creating backup</string>
     <string name="share_backup">Share backup</string>
     <string name="reader_multitask">Open reader in a separate task</string>

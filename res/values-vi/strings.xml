@@ -882,4 +882,10 @@
     <string name="download_default_directory">Đường dẫn mặc định để tải truyện về thiết bị</string>
     <string name="private_app_directory_warning">Đường dẫn này với tất cả dữ liệu của ứng dụng sẽ bị xóa nếu bạn gỡ ứng dụng Yukimi</string>
     <string name="available_pattern">Hiện có sẵn %1$s</string>
+    <string name="pinned_sources_only">Chỉ nguồn đã ghim</string>
+    <string name="hide_empty_sources">Ẩn nguồn với kết quả rỗng</string>
+    <string name="auto_double_foldable">Tự động bật chế độ 2 trang trên điện thoại gập</string>
+    <string name="details_ui">Phong cách màn hình hiển thị thông tin truyện</string>
+    <string name="details_ui_modern">Hiện đại (Mới)</string>
+    <string name="details_ui_classic">Cổ điển (Cũ)</string>
 </resources>

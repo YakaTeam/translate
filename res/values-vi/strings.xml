@@ -19,7 +19,7 @@
     <string name="add">Thêm</string>
     <string name="create_shortcut">Tạo lối tắt</string>
     <string name="share_s">Chia sẻ %s</string>
-    <string name="search_manga">Tìm kiếm manga</string>
+    <string name="search_manga">Tìm kiếm truyện</string>
     <string name="manga_downloading_">Đang tải xuống…</string>
     <string name="by_name">Tên</string>
     <string name="updated">Mới cập nhật</string>
@@ -72,7 +72,7 @@
     <string name="read_later">Đọc sau</string>
     <string name="updates">Cập nhật</string>
     <string name="search_results">Kết quả tìm kiếm</string>
-    <string name="size_s">Kích thước: %s</string>
+    <string name="size_s">Dung lượng: %s</string>
     <string name="rotate_screen">Xoay màn hình</string>
     <string name="feed_will_update_soon">Cập nhật danh sách sẽ bắt đầu sớm</string>
     <string name="track_sources">Kiểm tra tập / chương truyện mới</string>
@@ -502,7 +502,7 @@
     <string name="disable_nsfw">Vô hiệu hóa đối với NSFW</string>
     <string name="advanced">Nâng cao</string>
     <string name="error_corrupted_file">Dữ liệu trả lại không hợp lệ hoặc file đã bị hỏng</string>
-    <string name="related_manga_summary">Hiển thị danh sách manga có liên quan. Đôi khi có thể không có hoặc không liên quan</string>
+    <string name="related_manga_summary">Hiển thị danh sách truyện có liên quan. Đôi khi có thể không có hoặc không liên quan</string>
     <string name="too_many_requests_message">Yêu cầu quá nhiều. Hãy thoát ra và vào lại ¯\\_(ツ)_/¯</string>
     <string name="on_device">Trên máy</string>
     <string name="main_screen_sections">Phần màn hình chính</string>

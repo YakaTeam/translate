@@ -887,4 +887,7 @@
     <string name="auto_double_foldable">Автоматичне двосторінкове розміщення на складному</string>
     <string name="pinned_sources_only">Тільки закріплені джерела</string>
     <string name="hide_empty_sources">Приховати порожні джерела</string>
+    <string name="details_ui">Стиль екрану деталей</string>
+    <string name="details_ui_modern">Сучасний (Новий)</string>
+    <string name="details_ui_classic">Класичний (старий)</string>
 </resources>

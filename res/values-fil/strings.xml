@@ -211,7 +211,7 @@
     <string name="sync">Pag-synchronize</string>
     <string name="email_enter_hint">Ilagay ang iyong email upang magpatuloy</string>
     <string name="hide">Itago</string>
-    <string name="new_sources_text">May mga bagong source ng manga ay available</string>
+    <string name="new_sources_text">May mga bagong manga source ay available</string>
     <string name="show_notification_new_chapters_off">Hindi ka makakatanggap ng mga abiso ngunit ang mga bagong kabanata ay iha-highlight sa mga listahan</string>
     <string name="notifications_enable">Paganahin ang mga abiso</string>
     <string name="edit_category">Ayusin ang kategorya</string>
@@ -238,8 +238,8 @@
     <string name="no_bookmarks_summary">Maaari kang lumikha ng bookmark habang nagbabasa ng manga</string>
     <string name="bookmarks_removed">Tinanggal ang mga bookmark</string>
     <string name="random">Random</string>
-    <string name="no_manga_sources">Walang mga source ng manga</string>
-    <string name="no_manga_sources_text">Paganahin ang mga source ng manga upang basahin ang manga online</string>
+    <string name="no_manga_sources">Walang mga manga source</string>
+    <string name="no_manga_sources_text">Paganahin ang mga manga source upang basahin ang manga online</string>
     <string name="reorder">Ayusin muli</string>
     <string name="empty">Walang laman</string>
     <string name="confirm_exit">Pindutin muli ang Bumalik upang lumabas</string>
@@ -489,14 +489,13 @@
     <string name="content_type_hentai">Hentai</string>
     <string name="content_type_comics">Mga Comic</string>
     <string name="catalog">Katalogo</string>
-    <string name="manage_sources">Pamahalaan ang mga source</string>
+    <string name="manage_sources">Mamahala ng mga source</string>
     <string name="no_manga_sources_found">Walang available na manga source na nahanap base sa iyong query</string>
     <string name="lock_screen_rotation">Rotation ng lock screen</string>
     <string name="manual">Manu-mano</string>
     <string name="source_enabled">Napaganang source</string>
     <string name="disable_nsfw_summary">Di paganahin ang mga source na NSFW at itago ang manga na pang-matanda mula sa listahan kung maaari</string>
-    <string name="no_manga_sources_catalog_text">Walang mga sources na maaring gamitin sa seksyong ito, o maaring na-add na lahat.
-\nManatiling nakatutok para sa iba pang mga source</string>
+    <string name="no_manga_sources_catalog_text">Walang mga sources na maaring gamitin sa seksyong ito, o maaring na-idagdag na ang lahat. \nManatiling nakatutok</string>
     <string name="available_d">Available: %1$d</string>
     <string name="content_type_other">Iba pa</string>
     <string name="error_multiple_states_not_supported">Ang pag-filter ayon sa maraming estado ay hindi sinusuportahan ng manga source na ito</string>
@@ -516,7 +515,7 @@
     <string name="skip">Laktawan</string>
     <string name="color_correction_apply_text">Ang mga setting na ito ay maaaring ilapat sa pangkahalatan o sa kasalukuyang manga lamang. Kung inilapat sa pangkahalatan, hindi ma-override ang mga indibidwal na setting.</string>
     <string name="grayscale">Walang kulay</string>
-    <string name="welcome_text">Piliin kung anong mga content source ang gusto mo i-enable. Pwede rin ito ayusin mamaya sa mga setting</string>
+    <string name="welcome_text">Piliin kung anong mga content source ang gusto mong paganahin. Pwede rin ito ayusin mamaya sa mga setting</string>
     <string name="restore">I-balik</string>
     <string name="disable_battery_optimization_summary_downloads">Baka makatulong sa pag-simula ng download kung mayroong isyu</string>
     <string name="backup_date_">Petsa ng pag-backup: %s</string>
@@ -646,9 +645,9 @@
     <string name="image_server">Piniling image server</string>
     <string name="crop_pages">Mag-crop ng pahina</string>
     <string name="source_unpinned">Na-unpin ang source</string>
-    <string name="sources_unpinned">Mga source na na-unpin</string>
+    <string name="sources_unpinned">Mga source na di naka-pin</string>
     <string name="unpin">I-unpin</string>
-    <string name="sources_pinned">Mga source na na-pin</string>
+    <string name="sources_pinned">Mga source na naka-pin</string>
     <string name="pin">I-pin</string>
     <string name="source_pinned">Naka-pin ang source</string>
     <string name="recent_sources">Kamakailang mga source</string>
@@ -688,7 +687,7 @@
     <string name="manga_with_downloaded_chapters">Manga na may na-download na mga kabanata</string>
     <string name="fixing_manga">Inaayos ang manga</string>
     <string name="fixed">Matagumpay na naayos</string>
-    <string name="manga_fix_prompt">Ang function na ito ay makakahanap ng mga alternatibong source para sa napiling manga. Ang gawain ay magtatagal at magpapatuloy sa background</string>
+    <string name="manga_fix_prompt">Ang function na ito ay makakahanap ng mga alternatibong source para sa napiling manga. Ang gawain na ito ay magtatagal at magpapatuloy sa background</string>
     <string name="manga_replaced">Ang Manga na \"%1$s\" (%2$s) ay pinalitan ng \"%3$s\" (%4$s)</string>
     <string name="no_fix_required">Di kinakailangan ng paayos sa \"%s\"</string>
     <string name="no_alternatives_found">Walang alternatibong nahanap para sa \"%s\"</string>
@@ -865,4 +864,20 @@
     <string name="reader_chapter_toast_summary">Magpakita ng pop-up na mensahe na may pamagat ng kabanata kapag binago ito</string>
     <string name="hide_broken_sources">Itago ang mga sirang source</string>
     <string name="hide_broken_sources_summary">Itago ang mga pinagmulang minarkahan bilang sirang mula sa mga listahan ng pinagmulan</string>
+    <string name="pinned_sources_only">Naka-pin na mga source lamang</string>
+    <string name="hide_empty_sources">Itago ang mga walang laman na mga source</string>
+    <string name="frequency_every_6_hours">Kada 6 na oras</string>
+    <string name="details_ui">Estilo ng screen ng detalye</string>
+    <string name="details_ui_modern">Modern (Bago)</string>
+    <string name="details_ui_classic">Classic (Luma)</string>
+    <string name="test_parser">Subukan ang manga source</string>
+    <string name="rename">I-rename</string>
+    <string name="overwrite">I-overwrite</string>
+    <string name="filter_overwrite_confirm">Ang filter na \"%s\" ay umiiral na. Gusto mo bang i-overwrite ito?</string>
+    <string name="storage_and_network">Storage at network</string>
+    <string name="create_or_restore_backup">Lumikha o i-restore ang backup</string>
+    <string name="data_removal">Pag-aalis ng data</string>
+    <string name="source_broken_warning">Ang manga source na ito ay na-markahan bilang sira. Ang ilang mga feature ay hindi gagana</string>
+    <string name="download_default_directory">Default na directory sa pag-download ng manga</string>
+    <string name="private_app_directory_warning">Ang diretory na ito naglalaman lahat ng data ay matatangal kapag i-uninstall ang aplikasyon</string>
 </resources>

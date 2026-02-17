@@ -862,6 +862,8 @@
     <string name="enter_name">Ipasok ang pangalan</string>
     <string name="reader_chapter_toast">Ipakita ang popup sa pagpalit ng kabanata</string>
     <string name="reader_chapter_toast_summary">Magpakita ng pop-up na mensahe na may pamagat ng kabanata kapag binago ito</string>
+    <string name="hide_broken_sources">Itago ang mga sirang source</string>
+    <string name="hide_broken_sources_summary">Itago ang mga pinagmulang minarkahan bilang sirang mula sa mga listahan ng pinagmulan</string>
     <string name="pinned_sources_only">Naka-pin na mga source lamang</string>
     <string name="hide_empty_sources">Itago ang mga walang laman na mga source</string>
     <string name="frequency_every_6_hours">Kada 6 na oras</string>

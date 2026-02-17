@@ -885,4 +885,8 @@
     <string name="available_pattern">%1$s tersedia</string>
     <string name="pinned_sources_only">Hanya sumber yang disematkan</string>
     <string name="hide_empty_sources">Sembunyikan sumber kosong</string>
+    <string name="auto_double_foldable">Otomatis Dua Halaman Pada Lipatan</string>
+    <string name="details_ui">Detail gaya layar</string>
+    <string name="details_ui_modern">Modern (Baru)</string>
+    <string name="details_ui_classic">Klasik (Lama)</string>
 </resources>

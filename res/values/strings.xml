@@ -910,4 +910,6 @@
     <string name="download_default_directory">Default directory for downloading manga</string>
     <string name="private_app_directory_warning">This directory with all data will be deleted if you uninstall the application</string>
     <string name="available_pattern">%1$s available</string>
+    <string name="hide_broken_sources">Hide broken sources</string>
+    <string name="hide_broken_sources_summary">Hide sources marked as broken from source lists</string>
 </resources>

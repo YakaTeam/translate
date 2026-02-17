@@ -888,4 +888,6 @@
     <string name="details_ui">Phong cách màn hình hiển thị thông tin truyện</string>
     <string name="details_ui_modern">Hiện đại (Mới)</string>
     <string name="details_ui_classic">Cổ điển (Cũ)</string>
+    <string name="hide_broken_sources">Ẩn các nguồn bị hỏng</string>
+    <string name="hide_broken_sources_summary">Ẩn các nguồn được đánh dấu là bị hỏng khỏi danh sách nguồn</string>
 </resources>

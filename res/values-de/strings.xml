@@ -655,4 +655,9 @@
     <string name="minutes_seconds_short">%1$d m %2$d s</string>
     <string name="hide_broken_sources">Defekte Quellen ausblenden</string>
     <string name="hide_broken_sources_summary">Als defekt markierte Quellen aus Quellenlisten ausblenden</string>
+    <string name="saved_filters">Gespeicherte Filter</string>
+    <string name="enter_name">Namen eingeben</string>
+    <string name="pinned_sources_only">Nur angepinnte Quellen</string>
+    <string name="hide_empty_sources">Leere Quellen ausblenden</string>
+    <string name="pull_to_prev_chapter">Zum letzten Chapter gehen</string>
 </resources>

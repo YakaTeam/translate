@@ -29,9 +29,3 @@ to or software including (via compiler) GPL-licensed code must also be made avai
 install instructions.
 
 </div>
-
-### Disclaimer
-
-**`¯\_(ツ)_/¯`**
-
-This repository has been built by contributors / users, the content inside has been provided by **[Gemini](https://gemini.google.com/)**, but where is it, no one knows. No one knows how it works.

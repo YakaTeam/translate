@@ -889,4 +889,6 @@
     <string name="pinned_sources_only">Solo fonti fissate</string>
     <string name="hide_empty_sources">Nascondi fonti vuote</string>
     <string name="auto_double_foldable">Doppia pagina automatica su telefoni pieghevoli</string>
+    <string name="details_ui_modern">Moderno (Nuovo)</string>
+    <string name="details_ui_classic">Classico (vecchio)</string>
 </resources>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="new_chapters">
-        <item quantity="one">%1$d новий розділ</item>
-        <item quantity="few">%1$d нові розділи</item>
+        <item quantity="one">нових розділів %1$d</item>
+        <item quantity="few">нові %1$d розділи</item>
         <item quantity="many">%1$d нових розділів</item>
         <item quantity="other">%1$d нових розділів</item>
     </plurals>

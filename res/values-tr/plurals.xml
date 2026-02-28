@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="items">
-        <item quantity="one">%1$d öge</item>
-        <item quantity="other">%1$d öge</item>
+        <item quantity="one">%1$d öğe</item>
+        <item quantity="other">%1$d öğe</item>
     </plurals>
     <plurals name="chapters">
         <item quantity="one">%1$d bölüm</item>

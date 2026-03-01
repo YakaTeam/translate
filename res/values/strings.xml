@@ -912,4 +912,6 @@
     <string name="available_pattern">%1$s available</string>
     <string name="hide_broken_sources">Hide broken sources</string>
     <string name="hide_broken_sources_summary">Hide sources marked as broken from source lists</string>
+    <string name="details_backdrop">Set large cover as backdrop (Experiment)</string>
+    <string name="details_backdrop_summary">Show a large cover image at the top as a backdrop image (like Tachiyomi)</string>
 </resources>

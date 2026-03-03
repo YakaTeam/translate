@@ -878,29 +878,4 @@
     <string name="source_broken_warning">Ang manga source na ito ay na-markahan bilang sira. Ang ilang mga feature ay hindi gagana</string>
     <string name="download_default_directory">Default na directory sa pag-download ng manga</string>
     <string name="private_app_directory_warning">Ang diretory na ito naglalaman lahat ng data ay matatangal kapag i-uninstall ang aplikasyon</string>
-    <string name="details_backdrop"></string>
-    <string name="discord" translatable="false"></string>
-    <string name="kitsu" translatable="false"></string>
-    <string name="available_pattern"></string>
-    <string name="theme_name_itsuka"></string>
-    <string name="discord_token"></string>
-    <string name="fraction_pattern" translatable="false"></string>
-    <string name="inline_preference_pattern" translatable="false"></string>
-    <string name="download_summary_pattern" translatable="false"></string>
-    <string name="mal" translatable="false"></string>
-    <string name="discord_rpc"></string>
-    <string name="telegram_integration"></string>
-    <string name="anilist" translatable="false"></string>
-    <string name="breadcrumbs_separator" translatable="false"></string>
-    <string name="two_page_scroll_sensitivity"></string>
-    <string name="save_filter"></string>
-    <string name="chapters_time_pattern" translatable="false"></string>
-    <string name="theme_name_expressive"></string>
-    <string name="list_ellipsize_pattern" translatable="false"></string>
-    <string name="auto_double_foldable"></string>
-    <string name="app_name" translatable="false"></string>
-    <string name="privacy"></string>
-    <string name="details_backdrop_summary"></string>
-    <string name="theme_name_totoro"></string>
-    <string name="shikimori" translatable="false"></string>
 </resources>

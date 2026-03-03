@@ -882,25 +882,4 @@
     <string name="available_pattern">%1$s dostupný</string>
     <string name="hide_broken_sources">Skryjte poškozené zdroje</string>
     <string name="hide_broken_sources_summary">Skrýt zdroje označené jako poškozené ze seznamů zdrojů</string>
-    <string name="details_ui_classic"></string>
-    <string name="details_backdrop"></string>
-    <string name="discord" translatable="false"></string>
-    <string name="kitsu" translatable="false"></string>
-    <string name="pinned_sources_only"></string>
-    <string name="fraction_pattern" translatable="false"></string>
-    <string name="details_ui"></string>
-    <string name="inline_preference_pattern" translatable="false"></string>
-    <string name="download_summary_pattern" translatable="false"></string>
-    <string name="mal" translatable="false"></string>
-    <string name="simple"></string>
-    <string name="anilist" translatable="false"></string>
-    <string name="breadcrumbs_separator" translatable="false"></string>
-    <string name="chapters_time_pattern" translatable="false"></string>
-    <string name="hide_empty_sources"></string>
-    <string name="list_ellipsize_pattern" translatable="false"></string>
-    <string name="details_ui_modern"></string>
-    <string name="auto_double_foldable"></string>
-    <string name="app_name" translatable="false"></string>
-    <string name="details_backdrop_summary"></string>
-    <string name="shikimori" translatable="false"></string>
 </resources>

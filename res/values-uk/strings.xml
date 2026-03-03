@@ -901,4 +901,6 @@
     <string name="list_ellipsize_pattern" translatable="false"></string>
     <string name="app_name" translatable="false"></string>
     <string name="shikimori" translatable="false"></string>
+    <string name="details_backdrop">Встановити велике покриття як фон (експеримент)</string>
+    <string name="details_backdrop_summary">Показати велике зображення обкладинки у верхній частині як фонове зображення (як у Tachiyomi)</string>
 </resources>

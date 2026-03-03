@@ -71,7 +71,7 @@
     <string name="remove">সরিয়ে ফেলুন</string>
     <string name="_s_deleted_from_local_storage">\"%s\" লোকাল স্টোরেজ থেকে সরানো হয়েছে</string>
     <string name="save_page">পেজ সেভ করুন</string>
-    <string name="page_saved">Page saved</string>
+    <string name="page_saved">পৃষ্ঠা সংরক্ষিত হয়েছে</string>
     <string name="standard">স্ট্যান্ডার্ড</string>
     <string name="search_on_s">%s এ খুঁজুন</string>
     <string name="delete_manga">মানগা ডিলিট করুন</string>
@@ -154,7 +154,7 @@
     <string name="text_empty_holder_secondary_filtered">There are no manga matching the filters you selected</string>
     <string name="zoom_mode_fit_height">Fit to height</string>
     <string name="black_dark_theme">Black</string>
-    <string name="pages_saved">Pages saved</string>
+    <string name="pages_saved">পৃষ্ঠাগুলি সংরক্ষিত হয়েছে</string>
     <string name="zoom_mode_fit_width">Fit to width</string>
     <string name="zoom_mode_keep_start">Keep at start</string>
     <string name="enabled_d_of_d" tools:ignore="PluralsCandidate">%1$d of %2$d on</string>
@@ -175,7 +175,7 @@
     <string name="enable_logging_summary">ডিবাগের উদ্দেশ্যে কিছু অ্যাকশন রেকর্ড করুন। আপনি কী করছেন তা নিশ্চিত না হলে এটি চালু করবেন না</string>
     <string name="theme_name_dynamic">ডাইনামিক</string>
     <string name="theme_name_miku">মিকু</string>
-    <string name="data_not_restored">ডেটা পুনরুদ্ধার করা হয়নি</string>
+    <string name="data_not_restored">তথ্য পুনরুদ্ধার করা হয়নি</string>
     <string name="incognito_mode_hint">আপনার পড়ার অগ্রগতি সেভ হবে না</string>
     <string name="volume_">আওয়াজ%d</string>
     <string name="volume_unknown">অজানা ভলিউম</string>
@@ -867,4 +867,40 @@
     <string name="screenshots_policy"></string>
     <string name="clear_stats_confirm"></string>
     <string name="error_no_space_left"></string>
+    <string name="saved_filters">সংরক্ষিত বাছাই</string>
+    <string name="clear_cookies">কুকিজ মুছুন</string>
+    <string name="chapters_grid_view">গ্রিড দৃশ্য</string>
+    <string name="text_clear_updates_feed_prompt">সব আপডেট ইতিহাস স্থায়ীভাবে মুছে ফেলুন?</string>
+    <string name="backup_frequency">ব্যাকআপ তৈরির মাত্রা</string>
+    <string name="clear_feed">ফিড মুছুন</string>
+    <string name="backup_saved">ব্যাকআপ সংরক্ষিত হয়েছে</string>
+    <string name="create_backup">তথ্য পুনরুদ্ধার করা হয়নি</string>
+    <string name="tap_to_try_again">পুনরায় চেষ্টা করতে ট্যাপ করুন</string>
+    <string name="auth_required">এই বিষয়বস্তু দেখতে সাইন ইন করুন</string>
+    <string name="restore_backup">ব্যাকআপ থেকে পুনরুদ্ধার করুন</string>
+    <string name="periodic_backups_enable">নিয়মিত ব্যাকআপ চালু করুন</string>
+    <string name="data_not_restored_text">সঠিক ব্যাকআপ ফাইল নির্বাচন করা হয়েছে কিনা নিশ্চিত করুন</string>
+    <string name="data_restored">পুনরুদ্ধার হয়েছে</string>
+    <string name="captcha_required">ক্যাপচা প্রয়োজন</string>
+    <string name="periodic_backups">নিয়মিত ব্যাকআপ</string>
+    <string name="backup_restore">ব্যাকআপ ও পুনরুদ্ধার</string>
+    <string name="reverse">বিপরীত</string>
+    <string name="group">দল</string>
+    <string name="just_now">এখনই</string>
+    <string name="check_for_new_chapters">নতুন অধ্যায় খুঁজুন</string>
+    <string name="captcha_solve">সমাধান করুন</string>
+    <string name="data_restored_with_errors">তথ্য পুনরুদ্ধার করা হয়েছে, কিন্তু কিছু ত্রুটি রয়েছে</string>
+    <string name="yesterday">গতকাল</string>
+    <string name="restore_summary">পূর্বে তৈরি করা ব্যাকআপ পুনরুদ্ধার করুন</string>
+    <string name="reader_mode_hint">এই মাঙ্গার জন্য নির্বাচিত সেটিংস মনে রাখা হবে</string>
+    <string name="long_ago">অনেক আগে</string>
+    <string name="black_dark_theme_summary">AMOLED স্ক্রিনে কম শক্তি ব্যবহার করে</string>
+    <string name="file_not_found">ফাইল পাওয়া যায়নি</string>
+    <string name="cookies_cleared">সব কুকিজ মুছে ফেলা হয়েছে</string>
+    <string name="preparing_">প্রস্তুত হচ্ছে…</string>
+    <string name="data_restored_success">সমস্ত তথ্য পুনরুদ্ধার করা হয়েছে</string>
+    <string name="backup_information">আপনি আপনার ইতিহাস এবং পছন্দগুলোর ব্যাকআপ তৈরি করে তা পুনরুদ্ধার করতে পারেন</string>
+    <string name="silent">নীরব</string>
+    <string name="today">আজ</string>
+    <string name="sign_in">সাইন ইন</string>
 </resources>

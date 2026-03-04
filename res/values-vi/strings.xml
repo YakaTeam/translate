@@ -890,9 +890,9 @@
     <string name="details_ui_classic">Cổ điển (Cũ)</string>
     <string name="hide_broken_sources">Ẩn các nguồn bị hỏng</string>
     <string name="hide_broken_sources_summary">Ẩn các nguồn được đánh dấu là bị hỏng khỏi danh sách nguồn</string>
-	<string name="experiment">Thử nghiệm</string>
-	<string name="details_backdrop">Đặt ảnh bìa lớn làm nền</string>
-	<string name="details_backdrop_summary">Hiển thị ảnh bìa lớn ở trên cùng như là ảnh nền (giống Tachiyomi)</string>
-	<string name="details_backdrop_blur">Kích hoạt Blur cho ảnh nền</string>
-	<string name="details_backdrop_blur_summary">Áp dụng hiệu ứng Blur cho ảnh nền (giống Tachiyomi)</string>
+    <string name="experiment">Thử nghiệm</string>
+    <string name="details_backdrop">Đặt ảnh bìa lớn làm nền</string>
+    <string name="details_backdrop_summary">Hiển thị ảnh bìa lớn ở trên cùng như là ảnh nền (giống Tachiyomi)</string>
+    <string name="details_backdrop_blur">Kích hoạt Blur cho ảnh nền</string>
+    <string name="details_backdrop_blur_summary">Áp dụng hiệu ứng Blur cho ảnh nền (giống Tachiyomi)</string>
 </resources>

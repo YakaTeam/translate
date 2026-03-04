@@ -889,4 +889,9 @@
     <string name="details_ui">Стиль екрана подробиць</string>
     <string name="details_ui_modern">Сучасний (Новий)</string>
     <string name="details_ui_classic">Класичний (Старий)</string>
+    <string name="experiment">Експеримент</string>
+    <string name="details_backdrop">Встановити велику обкладинку як задник</string>
+    <string name="details_backdrop_summary">Відображати велике зображення обкладинки зверху як зображення задника (так як в Tachiyomi)</string>
+    <string name="details_backdrop_blur">Увімкнути розмиття для задника</string>
+    <string name="details_backdrop_blur_summary">Застосувати ефект розмиття для зображення задника (так як в Tachiyomi)</string>
 </resources>

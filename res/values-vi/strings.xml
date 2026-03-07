@@ -478,7 +478,7 @@
     <string name="suggestions_unavailable_text">Tính năng gợi ý đã tắt</string>
     <string name="clear_stats">Xoá thống kê</string>
     <string name="stats_cleared">Đã xoá thống kê</string>
-    <string name="clear_stats_confirm">Bạn có muốn xoá hết thống kê đọc không? Hành động này không thể hoàn tác</string>
+    <string name="clear_stats_confirm">Bạn có muốn xoá hết thống kê đọc không? Hành động này không thể hoàn tác.</string>
     <string name="less_than_minute">Ít hơn một phút trước</string>
     <string name="month">Tháng</string>
     <string name="all_time">Toàn thời gian</string>
@@ -493,7 +493,7 @@
     <string name="delete_read_chapters">Xoá các chương đã đọc</string>
     <string name="no_chapters_deleted">Không có chương nào bị xoá</string>
     <string name="migration_completed">Sáp nhập thành công</string>
-    <string name="delete_read_chapters_prompt">Hành động này sẽ xoá tất cả các chương đã đọc trong bộ nhớ trong. Bạn có thể tải lại sau, nhưng những chương đã xoá có thể mất vĩnh viễn.</string>
+    <string name="delete_read_chapters_prompt">Hành động này sẽ xoá tất cả các chương đã đọc trong bộ nhớ trong. Bạn có thể tải lại sau, nhưng những chương đã xoá có thể mất vĩnh viễn</string>
     <string name="email_password_enter_hint">Nhập email và mật khẩu để tiếp tục</string>
     <string name="unknown">Không rõ</string>
     <string name="show">Xem</string>
@@ -711,7 +711,7 @@
     <string name="any">Bất kì</string>
     <string name="filter_search_warning">Bộ lọc của bạn đã bị xóa do nguồn đọc này không hỗ trợ cho việc tìm kiếm bằng bộ lọc</string>
     <string name="demographic_kodomo">Dành cho trẻ em</string>
-    <string name="content_type_one_shot">One shot</string>
+    <string name="content_type_one_shot">Oneshot</string>
     <string name="content_type_image_set">Đặt hình ảnh</string>
     <string name="content_type_game_cg">Game CG</string>
     <string name="content_type_doujinshi">Doujinshi</string>

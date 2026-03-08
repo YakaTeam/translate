@@ -629,7 +629,7 @@
     <string name="frequency_of_check">Četnost kontrol</string>
     <string name="new_chapters_pattern">%1$s: %2$d</string>
     <string name="pin_navigation_ui">Upevnit uživatelské rozhraní pro navigaci</string>
-    <string name="fix">Upevnit</string>
+    <string name="fix">Opravit</string>
     <string name="pin_navigation_ui_summary">Neskrývat navigační panel a zobrazení vyhledávání při posouvání</string>
     <string name="disable_connectivity_check">Vypnout kontrolu připojení</string>
     <string name="ignore_ssl_errors_summary">Můžeš vypnout SSL certifikáty pokud se potýkáš s problémy při připojení k internetovým zdrojům. Toto může ovlivnit tvoji bezpečnost. Restart aplikace je požadován po změnění tohoto nastavení.</string>
@@ -885,4 +885,10 @@
     <string name="available_pattern">%1$s dostupný</string>
     <string name="hide_broken_sources">Skryjte poškozené zdroje</string>
     <string name="hide_broken_sources_summary">Skrýt zdroje označené jako poškozené ze seznamů zdrojů</string>
+    <string name="pinned_sources_only">Pouze připnuté zdroje</string>
+    <string name="hide_empty_sources">Skrýt prázdné zdroje</string>
+    <string name="auto_double_foldable">Automatická dvojstana na skládacích telefonech</string>
+    <string name="details_ui_modern">Moderní (nový)</string>
+    <string name="details_ui_classic">Klasický (starý)</string>
+    <string name="details_backdrop">Použít přebal jako pozadí</string>
 </resources>

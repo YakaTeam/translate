@@ -891,6 +891,7 @@
     <string name="details_ui_modern">Moderní (nový)</string>
     <string name="details_ui_classic">Klasický (starý)</string>
     <string name="details_backdrop">Použít přebal jako pozadí</string>
-    <string name="details_backdrop_summary">Zobrazit velký obraz obálky nahoře jako obrázek na pozadí (jako Tachiyomi)</string>
-    <string name="details_backdrop_blur_summary">Použijte rozostření efekt pro obrázek na pozadí (jako je Tachiyomi)</string>
+    <string name="details_backdrop_summary">Zobrazit přebal na vrchu jako pozadí (jako Tachiyomi)</string>
+    <string name="details_backdrop_blur_summary">Rozmazat pozadí (jako Tachiyomi)</string>
+    <string name="details_backdrop_blur">Povolit rozmazání pozadí</string>
 </resources>

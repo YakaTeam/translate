@@ -880,4 +880,11 @@
     <string name="source_broken_warning">Ang manga source na ito ay na-markahan bilang sira. Ang ilang mga feature ay hindi gagana</string>
     <string name="download_default_directory">Default na directory sa pag-download ng manga</string>
     <string name="private_app_directory_warning">Ang diretory na ito naglalaman lahat ng data ay matatangal kapag i-uninstall ang aplikasyon</string>
+    <string name="auto_double_foldable">Awtomatikong Dalawang Pahina sa Foldable</string>
+    <string name="two_page_scroll_sensitivity">Sensitivity ng Pag-Scroll ng Dalawang Pahina</string>
+    <string name="available_pattern">Available ang %1$s</string>
+    <string name="details_backdrop">I-set ang malaking cover bilang backdrop</string>
+    <string name="details_backdrop_summary">Ipakita ang malaking cover image sa itaas bilang backdrop (katulad sa Tachiyomi)</string>
+    <string name="details_backdrop_blur">Paganahin ang pag-blur sa backdrop</string>
+    <string name="details_backdrop_blur_summary">I-apply ang blur effect para sa backdrop image (tulad sa Tachiyomi)</string>
 </resources>

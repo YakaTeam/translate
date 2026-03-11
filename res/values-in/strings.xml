@@ -734,7 +734,7 @@
     <string name="destination_directory">Direktori tujuan</string>
     <string name="demographic_josei">Josei</string>
     <string name="download_new_chapters">Unduh bab baru</string>
-    <string name="content_type_novel">Novel</string>
+    <string name="content_type_novel">Novelis</string>
     <string name="content_type_manhwa">Komik Korea (Manhwa)</string>
     <string name="source_code">Kode sumber</string>
     <string name="download_cellular_confirm">Izinkan mengunduh melalui jaringan seluler?</string>
@@ -891,4 +891,9 @@
     <string name="details_ui">Detail gaya layar</string>
     <string name="details_ui_modern">Modern (Baru)</string>
     <string name="details_ui_classic">Klasik (Lama)</string>
+    <string name="experiment">Percobaan</string>
+    <string name="details_backdrop">Atur sampul besar sebagai latar belakang</string>
+    <string name="details_backdrop_summary">Tampilkan gambar sampul besar di bagian atas sebagai gambar latar (seperti Tachiyomi)</string>
+    <string name="details_backdrop_blur">Aktifkan blur untuk latar belakang</string>
+    <string name="details_backdrop_blur_summary">Terapkan efek blur pada gambar latar belakang (seperti Tachiyomi)</string>
 </resources>

@@ -882,13 +882,13 @@
     <string name="filter_overwrite_confirm">Ya existe un filtro llamado «%s». ¿Quieres sobrescribirlo?</string>
     <string name="storage_and_network">Almacenaje y red</string>
     <string name="create_or_restore_backup">Crea o restaura un respaldo</string>
-    <string name="data_removal">Fecha de retirada</string>
+    <string name="data_removal">Eliminación de datos</string>
     <string name="privacy">Privacidad</string>
     <string name="source_broken_warning">Este origen de manga ha sido marcado como roto. Algunas características puede que no funcionen</string>
     <string name="download_default_directory">Directorio predeterminado para descargar manga</string>
     <string name="private_app_directory_warning">Este directorio con todos los datos será eliminado si desinstala la aplicación</string>
     <string name="available_pattern">%1$s disponible</string>
-    <string name="experiment">Experimental</string>
+    <string name="experiment">Experimento</string>
     <string name="details_backdrop">Establece cobertura grande como fondo</string>
     <string name="details_backdrop_summary">Muestra una imagen cubierta grande en la cima como una imagen de fondo (como Tachiyomi)</string>
     <string name="details_backdrop_blur">Habilitar desenfoque para el fondo</string>

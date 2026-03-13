@@ -15,4 +15,7 @@
     <string name="not_in_favorites">Not in favourites</string>
     <string name="hide_broken_sources">Hide broken sources</string>
     <string name="hide_broken_sources_summary">Hide sources marked as broken from source lists</string>
+    <string name="local_storage">Local storage</string>
+    <string name="history">History</string>
+    <string name="error_occurred">An error occurred</string>
 </resources>

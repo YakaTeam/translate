@@ -338,4 +338,5 @@
     <string name="manga_error_description_pattern">오류 세부정보:&lt;br&gt;&lt;tt&gt;%1$s&lt;/tt&gt;&lt;br&gt;&lt;br&gt;1. &lt;a href=%2$s&gt;웹 브라우저에서 만화를 열어&lt;/a&gt; 소스에서 사용할 수 있는지 확인하세요&lt;br&gt;2. &lt;a href=kotatsu://about&gt;최신 버전의 Yukimi&lt;/a&gt;&lt;br&gt;를 사용하고 있는지 확인하세요.3. 사용 가능한 경우 개발자에게 오류 보고서를 보냅니다.</string>
     <string name="hide_broken_sources">깨진 소스 숨기기</string>
     <string name="hide_broken_sources_summary">소스 목록에서 손상된 것으로 표시된 소스 숨기기</string>
+    <string name="ignore_ssl_errors_summary">네트워크 리소스에 액세스할 때 SSL 관련 문제를 직면할 경우 SSL 인증서 검증을 비활성화할 수 있습니다. 이것은 당신의 안전에 영향을 미칠 수 있습니다. 신청 재시작은 이 조정을 바꾸기 후에 요구됩니다.</string>
 </resources>

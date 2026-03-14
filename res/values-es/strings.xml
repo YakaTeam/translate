@@ -892,7 +892,6 @@
     <string name="details_backdrop">Establece cobertura grande como fondo</string>
     <string name="details_backdrop_summary">Muestra una imagen cubierta grande en la cima como una imagen de fondo (como Tachiyomi)</string>
     <string name="details_backdrop_blur">Habilitar desenfoque para el fondo</string>
-    <string name="details_backdrop_blur_summary">Aplica efecto de desenfoque para la imagen del fondo (como Tachiyomi)</string>
     <string name="auto_double_foldable">Plegable automático de dos páginas</string>
     <string name="two_page_scroll_sensitivity">Sensibilidad de desplazamiento de dos páginas</string>
     <string name="theme_name_itsuka">Itsuka</string>

@@ -438,7 +438,6 @@
     <string name="backup_restored_background">백업은 배경에 복원됩니다</string>
     <string name="no_write_permission_to_file">파일을 작성할 권한이 없습니다</string>
     <string name="discord_token_summary">Discord 토큰을 입력하여 Rich Presence를 활성화하십시오</string>
-    <string name="details_backdrop_blur_summary">Backdrop 이미지에 대한 흐림 효과 적용 (Tachiyomi와 같은)</string>
     <string name="email_password_enter_hint">이메일 및 암호를 입력하여 계속</string>
     <string name="webtoon_zoom_summary">웹툰 모드에서 gesture에서 줌을 허용</string>
     <string name="search_hint">manga 제목, 장르 또는 출처 이름을 입력합니다</string>

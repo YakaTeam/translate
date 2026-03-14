@@ -896,5 +896,4 @@
     <string name="details_backdrop">Поставите велику корици као позадину</string>
     <string name="details_backdrop_summary">Покажите велику слику корице на врху као позадину (као Тахијоми)</string>
     <string name="details_backdrop_blur">Омогући замагљење за позадину</string>
-    <string name="details_backdrop_blur_summary">Приђени ефекат замагљења на слику позадине (као Тахијоми)</string>
 </resources>

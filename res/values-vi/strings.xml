@@ -893,6 +893,8 @@
 	<string name="experiment">Thử nghiệm</string>
 	<string name="details_backdrop">Đặt ảnh bìa lớn làm nền</string>
 	<string name="details_backdrop_summary">Hiển thị ảnh bìa lớn ở trên cùng như là ảnh nền (giống Tachiyomi)</string>
-	<string name="details_backdrop_blur">Kích hoạt Blur cho ảnh nền</string>
-	<string name="details_backdrop_blur_summary">Áp dụng hiệu ứng Blur cho ảnh nền (giống Tachiyomi)</string>
+	<string name="details_backdrop_blur">Độ mờ (Blur) ảnh nền</string>
+	<string name="details_appearance">Giao diện màn hình chi tiết</string>
+	<string name="details_appearance_summary">Phong cách, ảnh nền và hiệu ứng mờ</string>
+	<string name="preview">Xem trước</string>
 </resources>

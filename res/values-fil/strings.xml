@@ -886,5 +886,4 @@
     <string name="details_backdrop">I-set ang malaking cover bilang backdrop</string>
     <string name="details_backdrop_summary">Ipakita ang malaking cover image sa itaas bilang backdrop (katulad sa Tachiyomi)</string>
     <string name="details_backdrop_blur">Paganahin ang pag-blur sa backdrop</string>
-    <string name="details_backdrop_blur_summary">I-apply ang blur effect para sa backdrop image (tulad sa Tachiyomi)</string>
 </resources>

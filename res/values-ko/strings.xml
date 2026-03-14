@@ -533,4 +533,7 @@
     <string name="enable_all_sources">모든 manga 소스 활성화</string>
     <string name="all_sources_enabled">모든 소스는 활성화</string>
     <string name="reader_chapter_toast">챕터 변경 팝업</string>
+    <string name="reader_info_bar_transparent">투명한 독자 정보 막대기</string>
+    <string name="chapter_volume_number">권 %1$s 장 %2$s</string>
+    <string name="search_disabled_sources">장애인을 통한 검색</string>
 </resources>

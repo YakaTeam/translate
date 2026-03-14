@@ -895,5 +895,4 @@
     <string name="details_backdrop">Atur sampul besar sebagai latar belakang</string>
     <string name="details_backdrop_summary">Tampilkan gambar sampul besar di bagian atas sebagai gambar latar (seperti Tachiyomi)</string>
     <string name="details_backdrop_blur">Aktifkan blur untuk latar belakang</string>
-    <string name="details_backdrop_blur_summary">Terapkan efek blur pada gambar latar belakang (seperti Tachiyomi)</string>
 </resources>

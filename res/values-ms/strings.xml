@@ -886,4 +886,11 @@
     <string name="download_default_directory">Direktori lalai untuk memuat turun manga</string>
     <string name="private_app_directory_warning">Direktori ini dengan semua data akan dipadam jika anda menyahpasang aplikasi</string>
     <string name="available_pattern">%1$s tersedia</string>
+    <string name="details_appearance_summary">Gaya skrin, imej latar belakang dan kesan kabur</string>
+    <string name="preview">Pratonton</string>
+    <string name="details_appearance">Butiran paparan skrin</string>
+    <string name="experiment">Eksperimen</string>
+    <string name="details_backdrop">Tetapkan liputan besar sebagai latar belakang</string>
+    <string name="details_backdrop_summary">Tunjuk imej liputan besar di atas, sebagai imej latar belakang (seperti Tachiyomi)</string>
+    <string name="details_backdrop_blur">Tahap kekaburan latar belakang</string>
 </resources>
